@@ -3,7 +3,7 @@ title: "Disruption in Ground Transportation: Landslides and Disintegration of Lo
 collection: publications
 category: working
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '![Image 2](/images/landslides_food.png)'
 date: 2010-10-01
 #venue: 'SSRN'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
