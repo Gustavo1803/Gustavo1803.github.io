@@ -3,7 +3,7 @@ title: "Load it Up: Economies of Scale, Market Power, and Natural Disasters in G
 collection: publications
 category: progress
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '![Image 5](/images/truck_effect.png) | ![Image 5](/images/truck_map.png)'
 date: 2015-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
