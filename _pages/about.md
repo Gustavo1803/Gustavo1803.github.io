@@ -6,10 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-<div style="flex: 2;">
-  
 # About Me
 
 I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. My research focuses on transportation economics, environmental economics, and food markets. I am fascinated by the implicit mechanisms that drive decision-making among market actors, and my work centers on three main areas:
@@ -30,7 +27,10 @@ To study these topics, I employ causal inference techniques, applied machine lea
 Beyond academia, I bring over 10 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. This diverse background has given me a deep understanding of complex systems and data-driven decision-making.
 
 My strong foundation in consulting, as well as financial and strategic roles, enables me to merge business expertise with applied scientific skills. I leverage advanced data science techniques to evaluate investment opportunities in various sectors across middle-income countries, including real estate, tourism, and agriculture.
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
+<div style="flex: 2;">
+  
 </div>
 
 <div style="flex: 1;">
