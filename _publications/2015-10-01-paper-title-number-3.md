@@ -5,7 +5,7 @@ category: process
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '(Job Market Paper)
 ![Image 5](/images/truck_effect.png) '
-date: 2025-10-01
+date: 2025-01-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
