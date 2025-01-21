@@ -27,5 +27,14 @@ To study these topics, I employ causal inference techniques, applied machine lea
 Beyond academia, I bring over 10 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. This diverse background has given me a deep understanding of complex systems and data-driven decision-making.
 
 My strong foundation in consulting, as well as financial and strategic roles, enables me to merge business expertise with applied scientific skills. I leverage advanced data science techniques to evaluate investment opportunities in various sectors across middle-income countries, including real estate, tourism, and agriculture.
+<style>
+table {
+  border-collapse: collapse;
+  border: none;
+}
+td {
+  border: none;
+}
+</style>
 
  ![Image 1](/images/transport_img.webp) | ![Image 2](/images/truck_img.webp) 
