@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<div style="flex: 2;">
   
 # About Me
 
