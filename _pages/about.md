@@ -28,14 +28,4 @@ Beyond academia, I bring over 10 years of experience across sectors such as tran
 
 My strong foundation in consulting, as well as financial and strategic roles, enables me to merge business expertise with applied scientific skills. I leverage advanced data science techniques to evaluate investment opportunities in various sectors across middle-income countries, including real estate, tourism, and agriculture.
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-
-<div style="flex: 2;">
-  
-</div>
-
-<div style="flex: 1;">
-<img src="/images/transport_img.webp" alt="Your Image" style="width: 150%; border-radius: 10px;">
-</div>
-
-</div>
+| ![Image 1](/images/transport_img.webp) | ![Image 2](/images/truck_img.webp) |
