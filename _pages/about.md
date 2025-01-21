@@ -35,7 +35,7 @@ My strong foundation in consulting, as well as financial and strategic roles, en
 </div>
 
 <div style="flex: 1;">
-<img src="/images/transport_img.webp" alt="Your Image" style="width: 100%; border-radius: 10px;">
+<img src="/images/transport_img.webp" alt="Your Image" style="width: 150%; border-radius: 10px;">
 </div>
 
 </div>
