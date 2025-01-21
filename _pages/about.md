@@ -23,17 +23,17 @@ I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at
 ### 1. Prices and Disruptions
 I study how climate change-related disruptions, such as landslides, affect food price integration across markets and explore what policymakers can do to mitigate these effects.  
 
-![Image 2](/images/truck_img.webp) 
+![Image 2](/images/truck_img_v2.webp) 
 
 ### 2. Ground Freight Transportation Market Power
 I examine how ground transportation competition operates in middle-income countries and analyze their responses to increasing disruptions in terms of market power, coping mechanisms, and strategic behavior.  
 
-![Image 3](/images/truck_moutain.webp) 
+![Image 3](/images/truck_moutain_v2.webp) 
 
 ### 3. Ride-Hailing and Public Transit
 I investigate how private companies offering ride-hailing services can help increase the use of rail systems in the United States.  
 
-![Image 1](/images/transport_img.webp) 
+![Image 1](/images/transport_img_v2.webp) 
 
 To study these topics, I employ causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization. My findings aim to harmonize and improve the relationship between private companies and public policy, with an environmental focus.  
 
