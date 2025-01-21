@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
+<div style="flex: 2;">
   
 # About Me
 
@@ -31,7 +33,7 @@ My strong foundation in consulting, as well as financial and strategic roles, en
 
 </div>
 
-<div style="flex: 1; margin-left: 20px;">
+<div style="flex: 1;">
 <img src="/images/bio-photo.jpg" alt="Your Image" style="width: 100%; border-radius: 10px;">
 </div>
 
