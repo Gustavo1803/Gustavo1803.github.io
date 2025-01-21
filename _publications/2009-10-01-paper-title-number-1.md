@@ -3,7 +3,7 @@ title: "Conflict and small-scale Investment: Evidence from Colombian Peace Agree
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Short description of portfolio item number'
+excerpt: 'Short description of portfolio item number ![Image 2](/images/truck_img_v2.jpg) '
 date: 2023-01-11
 venue: 'JAAEA'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
