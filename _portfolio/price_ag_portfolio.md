@@ -6,7 +6,7 @@ collection: portfolio
 repository: "https://github.com/Gustavo1803/Gustavo1803.github.io/edit/master/_portfolio/portfolio-1.md"
 ---
 
-We performed a predictive analysis, employing a range of models including Lasso and Ridge regression, Random Forest, Gradient Boosting, Facebook Prophet, and advanced techniques like Long Short-Term Memory (LSTM) for comprehensive insights to estimate what would be the best time to sow and harvest as well to evaluate if there are arbitrage opportunities storing the product. 
+We conducted a predictive analysis using a variety of models, including Lasso and Ridge regression, Random Forest, Gradient Boosting, Facebook Prophet, and advanced techniques such as Long Short-Term Memory (LSTM). This analysis provided comprehensive insights to determine the optimal times for sowing and harvesting, as well as to evaluate potential arbitrage opportunities through product storage.
 
 [Github Repository here](https://github.com/Gustavo1803/Price-Projects)
 
