@@ -1,6 +1,7 @@
 ---
 title: "Evaluation of the Sustainability-Hotel Project"
-excerpt: "We conducted a pricing and review analysis for La Nola, a recreation center in Colombia, by gathering data from tourism search engines like Booking [Github Repository here](https://github.com/Gustavo1803/hotel_price) ![nola](/images/nola_image.png)"
+excerpt: "We conducted a pricing and review analysis for La Nola, a recreation center in Colombia, by gathering data from tourism search engines like Booking
+[Github Repository here](https://github.com/Gustavo1803/hotel_price) ![nola](/images/nola_image.png)"
 collection: portfolio
 repository: "https://github.com/Gustavo1803/Gustavo1803.github.io/edit/master/_portfolio/portfolio-1.md"
 ---
