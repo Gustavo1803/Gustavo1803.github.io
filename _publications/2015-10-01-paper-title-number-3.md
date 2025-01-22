@@ -1,7 +1,7 @@
 ---
 title: "AI in Colombian Food Markets: Using Machine Learning to Address Price Crisis"
 collection: publications
-category: manuscripts
+category: spanish
 permalink: /publication/price_ai
 excerpt: 'with Alejandro Nino and Jorge Chaparro
 ![Image 5](/images/ai_price_image.png) '
