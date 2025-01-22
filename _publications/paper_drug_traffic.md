@@ -1,7 +1,7 @@
 ---
 title: "Who Would Take the Spot of the Leader?: The Competition Response to the Largest Drug-Trafficking Actor Dissolving "
 collection: publications
-category: process
+category: manuscripts
 permalink: /publication/drug_competition
 excerpt: 'With Federico Ceballos and Benjamin Crost
 ![Image 5](/images/drug_image.jpg) '
