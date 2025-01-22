@@ -1,6 +1,6 @@
 ---
-title: "Real State Prices"
-excerpt: "We performed a a hedonic price analysis to determine what are the features that drive real state prices in three major cities in Colombia
+title: "Real Estate Prices"
+excerpt: "We performed a a hedonic price analysis to determine what are the features that drive real estate prices in three major cities in Colombia
 [Github Repository here](https://github.com/Gustavo1803/real_state_project.git) ![nola](/images/real_state_map.png)"
 collection: portfolio
 repository: "https://github.com/Gustavo1803/Gustavo1803.github.io/edit/master/_portfolio/portfolio-1.md"
