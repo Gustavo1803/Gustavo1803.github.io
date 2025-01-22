@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/price_crisis
 excerpt: 'with Alejandro Nino and Jorge Chaparro
 ![Image 5](/images/crises_price_image.png) '
-date: 2025-01-01
+date: 2023-09-19
 venue: 'Panorama Economico'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://revistas.unicartagena.edu.co/index.php/panoramaeconomico/article/view/4771/3708'
