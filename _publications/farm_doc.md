@@ -1,4 +1,3 @@
-
 ---
 title: "Guacamole is Back: Seasonal Production from South America Lowered Avocado Prices"
 collection: publications
