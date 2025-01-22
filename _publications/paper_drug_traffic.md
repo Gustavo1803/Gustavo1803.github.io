@@ -7,6 +7,7 @@ excerpt: 'With Federico Ceballos and Benjamin Crost
 ![Image 5](/images/drug_image.jpg) '
 date: 2025-01-01
 #venue: 'GitHub Journal of Bugs'
+slidesurl: 'https://drive.google.com/file/d/1Q6zZriNVffIkC3gYjrTRqElVO_-ggu0b/view?usp=drive_link'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
