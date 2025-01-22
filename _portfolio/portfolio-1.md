@@ -17,4 +17,5 @@ A classification analysis was performed using Logistic Regression, Ridge Regress
 An unsupervised learning approach was applied to estimate service categories in the region, helping to align the hotel’s offerings with local demand.
 
 [More information here](http://exampleurl.com)
+
 ![nola](/images/nola_image.png)
