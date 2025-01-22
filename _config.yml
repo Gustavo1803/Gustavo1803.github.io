@@ -84,7 +84,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Publications'    
+  spanish:
+    title: 'Publications in Spanish'  
   conferences:
     title: 'Conference Papers'
 
