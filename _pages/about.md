@@ -18,7 +18,7 @@ td {
 
 # About Me
 
-I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. My research focuses on transportation economics, environmental economics, and food markets. I am fascinated by the implicit mechanisms that drive decision-making among market actors, and my work centers on three main areas:
+I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Enviromental Economcs and Policy](https://peter-christensen-pe55.squarespace.com/) My research focuses on transportation economics, environmental economics, and food markets. I leverage causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization to address complex economic questions. I am particularly fascinated by the underlying mechanisms that drive decision-making among market actors, with my work centering on three main areas
 
 ### 1. Prices and Disruptions
 I study how climate change-related disruptions, such as landslides, affect food price integration across markets and explore what policymakers can do to mitigate these effects.  
@@ -39,8 +39,8 @@ To study these topics, I employ causal inference techniques, applied machine lea
 
 # Professional Experience
 
-Beyond academia, I bring over 10 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. This diverse background has given me a deep understanding of complex systems and data-driven decision-making.
+Beyond academia, I bring over 10 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. I have gained extensive industry experience as a Senior Financial and strategy analyst in various multinational companies, where I optimized operational costs and improved financial performance. I also worked as consultant, developing machine learning frameworks to predict prices and analyze supply chains. These experiences, combined with my passion for data science and policy analysis, have equipped me with the skills to tackle complex economic and financial challenges.
 
-My strong foundation in consulting, as well as financial and strategic roles, enables me to merge business expertise with applied scientific skills. I leverage advanced data science techniques to evaluate investment opportunities in various sectors across middle-income countries, including real estate, tourism, and agriculture.
+I also have experience as a freelancer, where I apply machine learning and deep learning to evaluate investment opportunities in industries such as real estate, tourism, and agriculture. If you’re interested in exploring some of the projects I’ve been involved in, feel free to [take a look here](https://gustavo1803.github.io/portfolio/)
 
 
