@@ -6,7 +6,7 @@ permalink: /publication/price_ai
 excerpt: 'with Alejandro Nino and Jorge Chaparro
 ![Image 5](/images/ai_price_image.png) '
 date: 2025-01-01
-#venue: 'Journal 1'
+venue: 'Economicas'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://revistascientificas.cuc.edu.co/economicascuc/libraryFiles/downloadPublic/252)'
 citation: 'Nino Chaparro, G.E., Nino Chaparro, A., & Chaparro Pesca, J.A. (2023). AI in Colombian Food Markets: Using Machine Learning to Address Price Crisis. Económicas CUC, 27-10-2023.DOI:
