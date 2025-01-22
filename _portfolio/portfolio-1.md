@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of the Sustainability-Hotel Project"
-excerpt: "We conducted a pricing and review analysis for La Nola, a recreation center in Colombia, by gathering data from tourism search engines like Booking [More information here](http://exampleurl.com) ![nola](/images/nola_image.png)"
+excerpt: "We conducted a pricing and review analysis for La Nola, a recreation center in Colombia, by gathering data from tourism search engines like Booking [Github Repository here](https://github.com/Gustavo1803/hotel_price) ![nola](/images/nola_image.png)"
 collection: portfolio
 repository: "https://github.com/Gustavo1803/Gustavo1803.github.io/edit/master/_portfolio/portfolio-1.md"
 ---
@@ -16,6 +16,6 @@ A classification analysis was performed using Logistic Regression, Ridge Regress
 ## 3. Service Categorization: 
 An unsupervised learning approach was applied to estimate service categories in the region, helping to align the hotel’s offerings with local demand.
 
-[More information here](http://exampleurl.com)
+[Github Repository here](https://github.com/Gustavo1803/hotel_price)
 
 ![nola](/images/nola_image.png)
