@@ -4,7 +4,7 @@ collection: publications
 category: process
 permalink: /publication/drug_competition
 excerpt: 'With Federico Ceballos and Benjamin Crost
-![Image 5](/images/uber_paper.png) '
+![Image 5](/images/drug_image.jpg) '
 date: 2025-01-01
 #venue: 'GitHub Journal of Bugs'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
