@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of the Sustainability-Hotel Project"
-excerpt: "We conducted a pricing and review analysis for "La Nola", a recreation center in Colombia, by gathering data from tourism search engines like Booking ![nola](/images/nola_image.png)>"
+excerpt: "We conducted a pricing and review analysis for La Nola, a recreation center in Colombia, by gathering data from tourism search engines like Booking ![nola](/images/nola_image.png)>"
 collection: portfolio
 ---
 
