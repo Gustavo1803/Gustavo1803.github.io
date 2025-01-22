@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
+title: "Evaluation of the Sustainability-Hotel Project"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We conducted a pricing and review analysis for ["La Nola"](https://www.airbnb.ie/rooms/1101558486590169027?check_in=2025-02-01&check_out=2025-02-06&guests=1&adults=1&s=67&unique_share_id=a9fdc585-15a3-4376-b2c8-cf9473d15034), a recreation center in Colombia , by gathering data from tourism search engines like Booking. Our approach consisted of three key steps:
+
+## 1. Price Prediction: 
+We utilized various machine learning models—including Lasso regression, Random Forest, Decision Trees, and XGBoost—to predict hotel prices for properties with similar characteristics. This enabled us to forecast market trends for the coming months and assess the feasibility of implementing sustainability strategies.
+
+## 2. Review Analysis: 
+A classification analysis was performed using Logistic Regression, Ridge Regression, Random Forest, and Gradient Boosting Random Forest to identify factors that increase the likelihood of receiving outstanding reviews on tourism platforms.
+
+## 3. Service Categorization: 
+An unsupervised learning approach was applied to estimate service categories in the region, helping to align the hotel’s offerings with local demand.
+
+![nola](path/to/nola_image.png)
