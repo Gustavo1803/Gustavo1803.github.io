@@ -31,11 +31,9 @@ I examine how ground transportation competition operates in middle-income countr
 ![Image 3](/images/truck_moutain_v2.jpg) 
 
 ### 3. Ride-Hailing and Public Transit
-I investigate how private companies offering ride-hailing services can help increase the use of rail systems in the United States.  
+I investigate how private ride-hailing companies can contribute to increasing the use of rail systems in the United States. This research is part of a collaborative project between Uber and the University of Illinois, utilizing digital experiments to evaluate ride-to-connect policies.  
 
 ![Image 1](/images/transport_img_v2.jpg) 
-
-To study these topics, I employ causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization. My findings aim to harmonize and improve the relationship between private companies and public policy, with an environmental focus.  
 
 # Professional Experience
 
