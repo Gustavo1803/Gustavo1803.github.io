@@ -1,7 +1,7 @@
 ---
 title: "Analysis of speculative trends in food prices in Colombia"
 collection: publications
-category: manuscripts
+category: spanish
 permalink: /publication/price_crisis
 excerpt: 'with Alejandro Nino and Jorge Chaparro
 ![Image 5](/images/crises_price_image.png) '
