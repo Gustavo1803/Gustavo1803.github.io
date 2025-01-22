@@ -2,7 +2,7 @@
 title: "Ridehailing and the “First/Last Mile” Challenge in Public Transit: Experimental Evidence from a Ride-2-Connect Program "
 collection: publications
 category: process
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/ridehailing
 excerpt: 'With Peter Christensen, Adam Osman and Lewis Lehe
 ![Image 5](/images/uber_paper.png) '
 date: 2025-01-01
