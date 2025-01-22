@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/price_ai
 excerpt: 'with Alejandro Nino and Jorge Chaparro
 ![Image 5](/images/ai_price_image.png) '
-date: 2025-01-01
+date: 2023-10-03
 venue: 'Economicas'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://revistascientificas.cuc.edu.co/economicascuc/libraryFiles/downloadPublic/252)'
