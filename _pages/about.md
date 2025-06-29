@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Food, Transportation, and Market Dynamics: Research and Professional Insights"
+title: "Supply Chain, Transportation, and Market Dynamics: Research and Professional Insights"
 author_profile: true
 redirect_from: 
   - /about/
