@@ -18,7 +18,7 @@ td {
 
 # About Me
 
-I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Enviromental Economics and Policy](https://peter-christensen-pe55.squarespace.com/). My research focuses on supply chain and transportation economics, agricultural and food economics, and environmental economics. I use causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization in my research. 
+I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Enviromental Economics and Policy](https://peter-christensen-pe55.squarespace.com/). My work focuses on supply chain, transportation, agricultural/food economics, as well as environmental economics. I use causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization in my research. 
 
 My main research path goes in two directions:
 
@@ -36,6 +36,6 @@ I investigate how private ride-hailing companies can contribute to increasing th
 
 Beyond academia, I have over 4 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. I have gained extensive industry experience as a Senior Financial and strategy analyst in various multinational companies, where I optimized operational costs and improved financial performance. I also worked as a consultant, where I developed machine learning tools for price forecasting and supply chain analysis. 
 
-As a freelancer, I use machine and deep learning models to assess investment prospects in real estate, tourism, and agriculture. If you’re interested in exploring some of the projects I’ve been involved in, feel free to [take a look here](https://gustavo1803.github.io/portfolio/)
+I also do some freelance work sometimes. If you’re interested in exploring some of the projects I’ve been involved in, feel free to [take a look here](https://gustavo1803.github.io/portfolio/)
 
 
