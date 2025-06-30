@@ -5,7 +5,7 @@ category: working
 permalink: /publication/truck_job
 excerpt: '(Job Market Paper | Available Upon Request)
 ![Image 5](/images/truck_effect.png) '
-date: 2025-01-01
+#date: 2025-01-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
