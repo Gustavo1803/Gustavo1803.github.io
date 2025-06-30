@@ -3,9 +3,9 @@ title: "Ridehailing and the “First/Last Mile” Challenge in Public Transit: E
 collection: publications
 category: working
 permalink: /publication/ridehailing
-excerpt: 'With Peter Christensen, Adam Osman and Lewis Lehe
+excerpt: 'Available Upon Request | With Peter Christensen, Adam Osman and Lewis Lehe
 ![Image 5](/images/uber_paper.png) '
-date: 2025-01-01
+#date: 2025-01-01
 #venue: 'GitHub Journal of Bugs'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
