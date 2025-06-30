@@ -1,5 +1,5 @@
 ---
-title: "Ridehailing and the “First/Last Mile” Challenge in Public Transit: Experimental Evidence from a Ride-2-Connect Program "
+title: "Boosting Public Transit Use with Ride-Hailing Service? Evidence from a Multi-City Experiment"
 collection: publications
 category: working
 permalink: /publication/ridehailing
