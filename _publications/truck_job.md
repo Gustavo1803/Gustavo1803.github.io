@@ -1,7 +1,7 @@
 ---
 title: "Load it Up: Economies of Scale, Market Power, and Natural Disasters in Ground Freight Transportation"
 collection: publications
-category: process
+category: working
 permalink: /publication/truck_job
 excerpt: '(Job Market Paper)
 ![Image 5](/images/truck_effect.png) '
