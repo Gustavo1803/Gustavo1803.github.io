@@ -2,7 +2,7 @@
 title: "Valentine's Day and the Gains from Agricultural Trade: Cut Flowers in the US"
 collection: publications
 category: manuscripts
-permalink: /publication/farm_doc
+permalink: /publication/farm_doc_2
 excerpt: 'with Joe Janzen'
 date: 2025-02-10
 venue: 'Farmdoc daily'
