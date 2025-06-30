@@ -1,5 +1,5 @@
 ---
-title: "Load it Up: Economies of Scale, Market Power, and Natural Disasters in Ground Freight Transportation"
+title: "Load It Up: Cost Shocks, Scale Economies, and Variety Loss in Freight Trucking"
 collection: publications
 category: working
 permalink: /publication/truck_job
