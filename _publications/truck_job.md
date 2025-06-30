@@ -3,7 +3,7 @@ title: "Load it Up: Economies of Scale, Market Power, and Natural Disasters in G
 collection: publications
 category: working
 permalink: /publication/truck_job
-excerpt: '(Job Market Paper | Available Upon Request)
+excerpt: '(Job Market Paper) - **Available Upon Request**
 ![Image 5](/images/truck_effect.png) '
 #date: 2025-01-01
 #venue: 'Journal 1'
