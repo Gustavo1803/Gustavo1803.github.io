@@ -8,5 +8,4 @@ date: 2022-12-28
 venue: 'Farmdoc daily'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://farmdocdaily.illinois.edu/2022/12/guacamole-is-back-seasonal-production-from-south-america-lowered-avocado-prices.html'
-citation: 'Chaparro, G. and J. Janzen. "Guacamole is Back: Seasonal Production from South America Lowered Avocado Prices." farmdoc daily (12):196, Department of Agricultural and Consumer Economics, University of Illinois at Urbana-Champaign, December 28, 2022.'
 ---
