@@ -2,7 +2,7 @@
 title: "Guacamole is Back: Seasonal Production from South America Lowered Avocado Prices"
 collection: publications
 category: manuscripts
-permalink: /publication/farm_doc
+#permalink: /publication/farm_doc
 excerpt: 'with Joe Janzen'
 date: 2022-12-28
 venue: 'Farmdoc daily'
