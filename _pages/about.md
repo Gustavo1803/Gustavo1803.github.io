@@ -28,7 +28,7 @@ I examine how ground transportation competition operates in middle-income countr
 ![Image 2](/images/truck_img_v2.jpg) 
 
 ### 2. Ride-Hailing Services
-I investigate how private ride-hailing companies can enhance mobility in developing countries and promote greater use of rail systems in the United States. I am part of a collaborative team that works on projects between Uber and the University of Illinois, employing digital experiments to evaluate ride-to-connect policies.
+I investigate how private ride-hailing companies can enhance mobility in developing countries and promote greater use of rail systems in the United States. I am part of a collaborative team that works on projects between Uber and the University of Illinois, employing digital experiments to evaluate policies that use ride-hailing services.
 
 ![Image 1](/images/transport_img_v2.jpg) 
 
