@@ -3,11 +3,11 @@ title: "Disruption in Ground Transportation: Landslides and Disintegration of Lo
 collection: publications
 category: working
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**R&R Food Policy** - ![Image 2](/images/landslides_food.png)'
+excerpt: '**R&R Food Policy** - [Download Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028042) ![Image 2](/images/landslides_food.png)'
 date: 2025-06-20
 venue: 'SSRN'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028042'
+#paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028042'
 citation: 'Nino, Gustavo, Disruption in Ground Transportation: Landslides and Disintegration of Local Food Markets (September 20, 2024). Available at SSRN: https://ssrn.com/abstract=5028042 or http://dx.doi.org/10.2139/ssrn.5028042'
 ---
 
