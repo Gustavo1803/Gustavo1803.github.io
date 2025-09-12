@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Supply Chain, Transportation, and Market Dynamics: Research and Professional Insights"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
