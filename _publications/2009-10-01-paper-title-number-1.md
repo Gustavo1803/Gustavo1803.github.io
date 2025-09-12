@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '*Nino, Gustavo, Kathy Baylis, and Benjamin Crost. 2023. “Conflict and small-scale investment: Evidence from Colombian peace agreement.” Journal of the Agricultural and Applied Economics Association. 2: 67–83.* - [Article Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.46) ![Image 2](/images/peace_paper_image.jpg) '
-#date: 2023-01-11
+date: 2023-01-11
 #venue: '**JAAEA**'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.46'
