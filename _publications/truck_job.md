@@ -3,7 +3,7 @@ title: "Load It Up: Cost Shocks, Scale Economies, and Variety Loss in Freight Tr
 collection: publications
 category: working
 permalink: /publication/truck_job
-excerpt: '*(Job Market Paper)* - **Available Upon Request** 
+excerpt: '*(Job Market Paper)* 
 ![Image 5](/images/truck_effect.png) '
 #date: 2025-06-01
 #venue: 'Journal 1'
