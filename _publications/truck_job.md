@@ -8,7 +8,7 @@ excerpt: '*(Job Market Paper)* - **Available Upon Request**
 #date: 2025-06-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://drive.google.com/file/d/10iaN7Ad_fxF-eGfGAI6T-fHF1KtHHuXF/view?usp=sharing'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
