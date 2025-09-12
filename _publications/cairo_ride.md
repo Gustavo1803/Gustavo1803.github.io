@@ -4,7 +4,7 @@ collection: publications
 category: working
 permalink: /publication/cairo_ride
 excerpt: '*with Peter Christensen and Adam Osman* -- *Conditional Accepted on Journal of Public Economics*
-![Image 5](/images/truck_effect.png) '
+![Image 6](/images/uber_cairo_paper.png) '
 #date: 2025-06-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
