@@ -18,24 +18,30 @@ td {
 
 # About Me
 
-I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Enviromental Economics and Policy](https://peter-christensen-pe55.squarespace.com/). My work focuses on supply chain, transportation, agricultural/food economics, as well as environmental economics. I use causal inference techniques, applied machine learning, computational data science, digital field experiments, and empirical industrial organization in my research. 
+I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Environmental Economics and Policy](https://peter-christensen-pe55.squarespace.com/).  
 
-My main research path goes in two directions:
+My research focuses on:
+- **Supply chain and transportation economics**
+- **Firm Behavior**
+- **Food systems and agricultural markets**
 
-### 1. Ground Freight Transportation and Agricultural Supply Chains
-I examine how ground transportation competition operates in middle-income countries and analyze their responses to increasing costs in terms of market power, coping mechanisms, and strategic behavior. I also study how disruptions in trucking transportation networks, such as landslides, affect food-price integration across markets and explore what policymakers can do to mitigate these effects. 
 
-![Image 2](/images/truck_img_v2.jpg) 
+Methodologically, I use:
+- Causal inference techniques  
+- Applied machine learning  
+- Computational data science  
+- Digital field experiments  
+- Empirical industrial organization  
 
-### 2. Ride-Hailing Services
-I investigate how private ride-hailing companies can enhance mobility in developing countries and promote greater use of rail systems in the United States. I am part of a collaborative team that works on projects between Uber and the University of Illinois, employing digital experiments to evaluate policies that use ride-hailing services.
+Take a look at my [CV](https://gustavo1803.github.io/cv/) or explore my [Research](https://gustavo1803.github.io/publications/).
 
-![Image 1](/images/transport_img_v2.jpg) 
+---
 
 # Professional Experience
 
-Beyond academia, I have over 4 years of experience across sectors such as transportation, food and agriculture, consulting, and marketing. I have gained extensive industry experience as a Senior Financial and strategy analyst in various multinational companies, where I optimized operational costs and improved financial performance. I also worked as a consultant, where I developed machine learning tools for price forecasting and supply chain analysis. 
+Beyond academia, I have over four years of experience across sectors such as transportation, food and agriculture, consulting, and marketing.  
 
-I also do some freelance work sometimes. If you’re interested in exploring some of the projects I’ve been involved in, feel free to [take a look here](https://gustavo1803.github.io/portfolio/)
-
-
+Highlights of my professional background include:
+- Serving as a **Senior Financial and Strategy Analyst** in multinational companies, where I performed financial and statistical analysis.  
+- Working as a **consultant** to develop machine learning tools for price forecasting and supply chain analysis.  
+- Taking on **freelance data science projects**, which you can explore [here](https://gustavo1803.github.io/portfolio/).
