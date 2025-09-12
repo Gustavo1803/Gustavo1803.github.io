@@ -3,7 +3,7 @@ title: "Disruption in Ground Transportation: Landslides and Disintegration of Lo
 collection: publications
 category: working
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '![Image 2](/images/landslides_food.png)'
+excerpt: '**Conditional Accepted on Journal of Public Economics** - ![Image 2](/images/landslides_food.png)'
 date: 2025-06-20
 venue: 'SSRN'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
