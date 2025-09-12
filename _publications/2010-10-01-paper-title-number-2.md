@@ -3,7 +3,7 @@ title: "Disruption in Ground Transportation: Landslides and Disintegration of Lo
 collection: publications
 category: working
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**R&R Food Policy** - [Download Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028042) ![Image 2](/images/landslides_food.png)'
+excerpt: '**R&R Food Policy** - [PDF Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028042) ![Image 2](/images/landslides_food.png)'
 date: 2025-06-20
 venue: 'SSRN'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
