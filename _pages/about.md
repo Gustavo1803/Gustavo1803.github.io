@@ -18,7 +18,7 @@ td {
 
 I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Environmental Economics and Policy](https://peter-christensen-pe55.squarespace.com/).  
 
-My research focuses on:
+My research interests are:
 - **Supply chain and transportation economics**
 - **Firm Behavior**
 - **Food systems and agricultural markets**
