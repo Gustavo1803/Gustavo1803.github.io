@@ -1,7 +1,7 @@
 ---
 title: "The Demand for Mobility: Evidence from an Experiment with Uber Riders"
 collection: publications
-category: working
+category: manuscripts
 permalink: /publication/ridet
 excerpt: '*with Peter Christensen and Adam Osman* -- **Accepted on Journal of Political Economy(JPE)** - [PDF Link](https://drive.google.com/file/d/19o26TmbqXrFV0aOXXn_Jw1nUpbnyxepo/view?usp=sharing)
 ![Image 6](/images/uber_cairo_paper.png) '
