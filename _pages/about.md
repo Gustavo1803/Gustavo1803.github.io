@@ -20,8 +20,8 @@ I hold a Ph.D. in Applied Economics and an M.S. in Statistics from the Universit
 
 My research interests are:
 - **Supply Chain and Transportation Economics**
-- **Firm Behavior**
-- **Food systems and Agricultural Supply Chain**
+- **Industrial Organization and Firm Behavior**
+- **Food and Agricultural Systems**
 
 
 Methodologically, I use:
