@@ -16,7 +16,7 @@ td {
 }
 </style>
 
-I hold a Ph.D. in Applied Economics and an M.S. in Statistics from the University of Illinois Urbana-Champaign. Beginning this fall, I will join the [Supply Chain Management and Technology Group](https://administracion.uniandes.edu.co/en/faculty/academic-areas/supply-chain-management-technology/) in them[School of Management](https://administracion.uniandes.edu.co/en/) at Universidad de los Andes in Colombia.
+I hold a Ph.D. in Applied Economics and an M.S. in Statistics from the University of Illinois Urbana-Champaign. Beginning this fall, I will join the [Supply Chain Management and Technology Group](https://administracion.uniandes.edu.co/en/faculty/academic-areas/supply-chain-management-technology/) in the [School of Management](https://administracion.uniandes.edu.co/en/) at Universidad de los Andes in Colombia.
 
 My research interests are:
 - **Supply Chain and Transportation Economics**
