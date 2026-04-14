@@ -16,12 +16,12 @@ td {
 }
 </style>
 
-I am a Ph.D. candidate in Applied Economics and an M.S. student in Statistics at the University of Illinois Urbana-Champaign. I am an active member of the [Center for the Economics of Sustainability](https://ceos.illinois.edu/index.php/node/525) and the [Big Data for Environmental Economics and Policy](https://peter-christensen-pe55.squarespace.com/).  
+I hold a Ph.D. in Applied Economics and an M.S. in Statistics from the University of Illinois Urbana-Champaign. Beginning this fall, I will join the [Supply Chain Management and Technology Group](https://administracion.uniandes.edu.co/en/faculty/academic-areas/supply-chain-management-technology/) in them[School of Management](https://administracion.uniandes.edu.co/en/) at Universidad de los Andes in Colombia.
 
 My research interests are:
 - **Supply Chain and Transportation Economics**
 - **Firm Behavior**
-- **Food systems and Agricultural Markets**
+- **Food systems and Agricultural Supply Chain**
 
 
 Methodologically, I use:
@@ -37,7 +37,7 @@ Take a look at my [CV](https://gustavo1803.github.io/cv/) or explore my [Researc
 
 # Professional Experience
 
-Beyond academia, I have over four years of experience across sectors such as transportation, food and agriculture, consulting, and marketing.  
+Beyond academia, I have over multiple years of experience across sectors such as transportation, food and agriculture, consulting, and marketing.  
 
 Highlights of my professional background include:
 - Serving as a **Senior Financial and Strategy Analyst** in multinational companies, where I performed financial and statistical analysis.  
